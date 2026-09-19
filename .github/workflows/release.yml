@@ -26,7 +26,7 @@ jobs:
 
       - name: Check out release
         if: steps.release.outputs.release_created == 'true'
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           ref: ${{ steps.release.outputs.tag_name }}
 
