@@ -1,0 +1,6 @@
+{
+  "$schema": "https://raw.githubusercontent.com/MuktadirHassan/quotes/main/schemas/v1.0.0.json",
+  "schemaVersion": "1.0.0",
+  "datasetVersion": "0.0.0",
+  "quotes": []
+}
