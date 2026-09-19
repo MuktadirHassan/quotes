@@ -26,6 +26,136 @@
         "status": "unknown"
       },
       "notes": "The author and original publication are unknown. See issue #6."
+    },
+    {
+      "id": "yami-sukehiro-surpass-your-limits",
+      "text": "Surpass your limits. Right here. Right now.",
+      "attributedTo": "Yami Sukehiro",
+      "source": {
+        "type": "anime",
+        "title": "Black Clover",
+        "citation": "Episode 44, The Pointlessly Direct Fireball and the Wild Lightning, approximately 10:40",
+        "url": "https://subs.yakuaru.com/books/black-clover/page/e44-the-pointlessly-direct-fireball-and-the-wild-lightning"
+      },
+      "language": "en",
+      "tags": [
+        "determination",
+        "perseverance",
+        "self-improvement"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-09-19",
+        "evidenceUrl": "https://subs.yakuaru.com/books/black-clover/page/e44-the-pointlessly-direct-fireball-and-the-wild-lightning"
+      },
+      "rights": {
+        "status": "copyrighted"
+      },
+      "notes": "The archived Crunchyroll subtitle begins with 'All of you.' The shorter wording is commonly quoted; confirm against an official licensed release before marking verified."
+    },
+    {
+      "id": "eren-yeager-if-you-dont-fight-you-cant-win",
+      "text": "If you don't fight, you can't win.",
+      "attributedTo": "Eren Yeager",
+      "source": {
+        "type": "anime",
+        "title": "Attack on Titan",
+        "citation": "Season 1, Episode 6, The World the Girl Saw: The Battle for Trost, Part 2, approximately 17:46",
+        "url": "https://subs.yakuaru.com/books/attack-on-titan/page/e6-the-world-the-girl-saw-battle-for-trost-2"
+      },
+      "language": "en",
+      "tags": [
+        "action",
+        "courage",
+        "survival"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-09-19",
+        "evidenceUrl": "https://subs.yakuaru.com/books/attack-on-titan/page/e6-the-world-the-girl-saw-battle-for-trost-2"
+      },
+      "rights": {
+        "status": "copyrighted"
+      },
+      "notes": "The archived Crunchyroll subtitle uses 'we' instead of 'you'; the Japanese line omits the grammatical subject. English releases vary."
+    },
+    {
+      "id": "toru-oikawa-talent-is-something-you-make-bloom",
+      "text": "Talent is something you make bloom. Instinct is something you polish.",
+      "attributedTo": "Tōru Oikawa",
+      "source": {
+        "type": "anime",
+        "title": "Haikyu!!",
+        "citation": "Season 2, Episode 24, The Absolute Limit Switch, approximately 19:43–19:46",
+        "url": "https://subs.yakuaru.com/books/haikyu/page/e24-the-absolute-limit-switch"
+      },
+      "language": "en",
+      "tags": [
+        "talent",
+        "practice",
+        "growth"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-09-19",
+        "evidenceUrl": "https://subs.yakuaru.com/books/haikyu/page/e24-the-absolute-limit-switch"
+      },
+      "rights": {
+        "status": "copyrighted"
+      },
+      "notes": "Wording matches an archived Crunchyroll subtitle track and a Crunchyroll editorial feature, but the evidence URL is a third-party subtitle archive."
+    },
+    {
+      "id": "thors-you-have-no-enemies",
+      "text": "You have no enemies. No one has any enemies.",
+      "attributedTo": "Thors",
+      "source": {
+        "type": "anime",
+        "title": "Vinland Saga",
+        "citation": "Season 1, Episode 2, Sword, approximately 19:29–19:32",
+        "url": "https://subs.yakuaru.com/books/vinland-saga/page/e2-sword-W3J"
+      },
+      "language": "en",
+      "tags": [
+        "peace",
+        "compassion",
+        "wisdom"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-09-19",
+        "evidenceUrl": "https://subs.yakuaru.com/books/vinland-saga/page/e2-sword-W3J"
+      },
+      "rights": {
+        "status": "copyrighted"
+      },
+      "notes": "The archived Crunchyroll subtitle reads 'You don't have any enemies.' Multiple English subtitle and dub versions use different wording."
+    },
+    {
+      "id": "edward-elric-a-lesson-without-pain-is-meaningless",
+      "text": "A lesson without pain is meaningless.",
+      "attributedTo": "Edward Elric",
+      "source": {
+        "type": "anime",
+        "title": "Fullmetal Alchemist: Brotherhood",
+        "citation": "Episode 64, Journey's End, closing narration, approximately 22:01",
+        "url": "https://subs.yakuaru.com/books/fullmetal-alchemist-brotherhood/page/64-journeys-end"
+      },
+      "language": "en",
+      "tags": [
+        "pain",
+        "growth",
+        "sacrifice"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-09-19",
+        "evidenceUrl": "https://subs.yakuaru.com/books/fullmetal-alchemist-brotherhood/page/64-journeys-end"
+      },
+      "rights": {
+        "status": "copyrighted"
+      },
+      "notes": "This wording appears in an older subtitle rendering. The current archived Crunchyroll subtitle and English dub use materially different translations."
     }
   ]
 }
