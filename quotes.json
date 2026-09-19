@@ -2,5 +2,30 @@
   "$schema": "https://raw.githubusercontent.com/MuktadirHassan/quotes/main/schemas/v1.0.0.json",
   "schemaVersion": "1.0.0",
   "datasetVersion": "1.0.0",
-  "quotes": []
+  "quotes": [
+    {
+      "id": "unknown-keep-moving-forward-surpass-my-limits",
+      "text": "I don't care how far behind I am. I don't care how many times I fall. I don't care how impossible it looks. I will keep moving forward. I will surpass my limits.",
+      "attributedTo": "Unknown",
+      "source": {
+        "type": "other",
+        "title": "Instagram",
+        "citation": "Unattributed Instagram post; original post URL unavailable"
+      },
+      "language": "en",
+      "tags": [
+        "determination",
+        "perseverance",
+        "resilience"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-09-19"
+      },
+      "rights": {
+        "status": "unknown"
+      },
+      "notes": "The author and original publication are unknown. See issue #6."
+    }
+  ]
 }
